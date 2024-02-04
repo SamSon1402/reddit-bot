@@ -6,10 +6,13 @@ Reddit Daily Digest Bot is a Python bot designed to simplify the process of aggr
 Clone this repository to your local machine:
 
 git clone https://github.com/SamSon1402/reddit-bot/edit/main
-Change the project directory
 
-cd reddit-dailydigest-bot
-Install Dependencies
+
+Change the project directory
+**cd reddit-dailydigest-bot**
+
+**Install Dependencies**
+
 
 pip install -r requirements.txt
 Configuration
