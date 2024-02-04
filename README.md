@@ -23,8 +23,8 @@ Reddit API Credentials
 Open the config.py file and replace the placeholders with your Reddit API credentials:
 
 
- \n\nCLIENT_ID = 'your_client_id'\n\n
- \n\nCLIENT_SECRET = 'your_client_secret'\n\n
+ /n/nCLIENT_ID = 'your_client_id'/n/n
+ /n/nCLIENT_SECRET = 'your_client_secret'/n/n
  \n\nUSER_AGENT = 'your_user_agent'\n\n
  \n\nREDDIT_USERNAME = 'your_reddit_username'\n\n
  \n\nREDDIT_PASSWORD = 'your_reddit_password'\n\n
