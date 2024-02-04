@@ -30,7 +30,7 @@ Open the config.py file and replace the placeholders with your Reddit API creden
  REDDIT_PASSWORD = 'your_reddit_password',
 
 
-Subreddits
+**Subreddits**
 
 
 Modify the SUBREDDITS variable in config.py to specify the subreddits from which you want to fetch posts. Don't include r/ before the name of the subreddit.
