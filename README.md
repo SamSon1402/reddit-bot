@@ -49,3 +49,16 @@ TIME_RANGE = 'day'
 'month': Fetch top posts from the last 30 days.
 'year': Fetch top posts from the last 365 days.
 'all': Fetch top posts from all time.
+
+**Usage**
+
+
+After configuring it properly simply run the bot script :
+
+
+**Daily Digest Script**
+
+py main.py
+
+
+The bot will fetch that day's top posts from the specified subreddits, compile them into a daily digest, and post it to the target subreddit.
