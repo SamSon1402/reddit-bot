@@ -15,16 +15,24 @@ Change the project directory
 
 
 pip install -r requirements.txt
+
 Configuration
+
 Reddit API Credentials
+
 Open the config.py file and replace the placeholders with your Reddit API credentials:
 
-CLIENT_ID = 'your_client_id'
-CLIENT_SECRET = 'your_client_secret'
-USER_AGENT = 'your_user_agent'
-REDDIT_USERNAME = 'your_reddit_username'
-REDDIT_PASSWORD = 'your_reddit_password'
+
+ CLIENT_ID = 'your_client_id'
+ CLIENT_SECRET = 'your_client_secret'
+ USER_AGENT = 'your_user_agent'
+ REDDIT_USERNAME = 'your_reddit_username'
+ REDDIT_PASSWORD = 'your_reddit_password'
+
+
 Subreddits
+
+
 Modify the SUBREDDITS variable in config.py to specify the subreddits from which you want to fetch posts. Don't include r/ before the name of the subreddit.
 
 SUBREDDITS = ['science', 'technology', 'maths', 'physics']
